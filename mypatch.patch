@@ -1,0 +1,11 @@
+diff --git a/third.c b/third.c
+index e28482f..7e34195 100644
+--- a/third.c
++++ b/third.c
+@@ -1,4 +1,6 @@
+ #include<stdio.h>
+ int main(){
+ 	printf("third.c");
++	//adding to create patch
++	printf("Creating changes for patch");
+ }
